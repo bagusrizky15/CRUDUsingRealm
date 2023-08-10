@@ -1,0 +1,6 @@
+framework module Pods_CRUDusingRealm {
+  umbrella header "Pods-CRUDusingRealm-umbrella.h"
+
+  export *
+  module * { export * }
+}
